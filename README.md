@@ -19,7 +19,7 @@ This is the collabed Version of the project [James](https://github.com/hakrrr/Bl
 
 ## Credits
 
-This game is inspired by Metal Gear Rising: Revengeance
+This game is inspired by Metal Gear Rising: Revengeance, fruit Ninja and temple run
 
 Overall Guide for Cutting Feature: https://github.com/mixandjam/MGR-BladeMode
 
