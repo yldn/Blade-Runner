@@ -1,61 +1,10 @@
 # Blade Runner
 
-A Self-made Endless Runner Game for Windows PC and Microsoft Kinect.
+A semester project made on kinect camera with unity.
+This is the collabed Version of the project [James]https://github.com/hakrrr/Blade-Runner
 
+## Detailed info will be uploaded soon...
 
-## Demo
-
-![Movies & TV 2_5_2020 3_35_21 AM](https://github.com/hakrrr/Blade-Runner/blob/master/Demo/Movies%20%26%20TV%202_5_2020%203_35_21%20AM.png)
-
-![Movies & TV 2_5_2020 3_35_25 AM](https://github.com/hakrrr/Blade-Runner/blob/master/Demo/Movies%20%26%20TV%202_5_2020%203_35_25%20AM.png)
-
-![Movies & TV 2_5_2020 3_36_32 AM](https://github.com/hakrrr/Blade-Runner/blob/master/Demo/Movies%20%26%20TV%202_5_2020%203_36_35%20AM.png)
-
-![Movies & TV 2_5_2020 3_36_35 AM](https://github.com/hakrrr/Blade-Runner/blob/master/Demo/Movies%20%26%20TV%202_5_2020%203_36_38%20AM.png)
-
-![Movies & TV 2_5_2020 3_36_38 AM](https://github.com/hakrrr/Blade-Runner/blob/master/Demo/Movies%20%26%20TV%202_5_2020%203_36_32%20AM.png)
-
-
-## Gameplay
-
-Blade Runner is an Endless-Runner game with a slight twist. The player’s goal is to navigate through the city, while sustaining his gradually decreasing power-charge. In order to achieve that, he has multiple different tasks to fulfill. 
-
-One being, avoiding collision with obstacles, using the actions: 
-
-	1. Move Left & Right
-	2. Jump
-
-The second being, cutting close objects to charge his power. The amount of charge will depend on the hits one manages to land. 
-
-
-
-
-
-## Controls
-
-### Character Movement:
-
-​	Left & Right = A & D (PC) / Left & Right arm raise (Kinect)
-
-​	Sprint = W (PC) / Not featured in Kinect
-
-​	Jump = Space (PC) / Jumping with both hands up (Kinect)
-
-
-
-### Blade-Mode:
-
-​	Activating Blade-Mode: Right-Click mouse (PC) / Put both hands together "Prayer's Pose" (Kinect)
-
-​	Slicing: Hold left mouse button & drag into one direction(PC)/ Drag hand across the screen (Kinect)
-
-
-
-
-
-## Download
-
-Feel free to contact me for a download link. You can also set it up one your own, as described below.
 
 ### Unity Setup:
 
