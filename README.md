@@ -1,7 +1,7 @@
 # Blade Runner
 
 A semester project made on kinect camera with unity.
-This is the collabed Version of the project [James]https://github.com/hakrrr/Blade-Runner
+This is the collabed Version of the project [James](https://github.com/hakrrr/Blade-Runner)
 
 ## Detailed info will be uploaded soon...
 
